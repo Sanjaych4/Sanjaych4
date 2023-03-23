@@ -1,4 +1,4 @@
-<h1 align="center">Hey ,I'm Sanjay</h1>
+<h1 align="center">Hey, I'm Sanjay</h1>
 <h3 align="center">Bridging the Gap: From Python Mastery to Front-End Fluency</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sanjaych4&label=Profile%20views&color=0e75b6&style=flat" alt="sanjaych4" /> </p>
