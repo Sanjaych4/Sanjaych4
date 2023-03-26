@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sanjaych4&label=Profile%20views&color=0e75b6&style=flat" alt="sanjaych4" /> </p>
 
-- 🔭 I’m currently working on [50 Days of Python Projects](https://github.com/Sanjaych4/50DaysOfPyProjects)
+- 🔭 I’m currently working on [50 Mini Projects of Python](https://github.com/Sanjaych4/50DaysOfPyProjects)
 
 - 🌱 I’m currently learning **Javascript and React**
 
